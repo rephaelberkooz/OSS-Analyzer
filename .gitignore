@@ -179,3 +179,4 @@ data/
 logs/
 .env.local
 .env.production 
+notebooks/__marimo__/
